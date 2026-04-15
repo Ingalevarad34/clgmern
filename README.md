@@ -2,6 +2,6 @@
 
 Synced from NeonCode Live.
 
-- Room code: 8UBL7P
-- Language: java
+- Room code: MWCAFJ
+- Language: javascript
 - Mode: free
